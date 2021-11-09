@@ -1,7 +1,7 @@
 - 👋 Hi, I’m adiaaaa7
-- 👀 I’m interested in spring now
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in go now
+- 🌱 I’m currently learning go
+- 💞️ I’m looking to collaborate on game
 - 📫 How to reach me ...
 
 <!---
